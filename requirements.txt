@@ -1,7 +1,10 @@
 streamlit
 ultralytics
 opencv-python-headless
-pillow
-numpy
+Pillow
 torch
+numpy
+fpdf
+streamlit-lottie
+
 
