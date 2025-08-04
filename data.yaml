@@ -1,5 +1,0 @@
-train: C:/Users/72910/Object Detection Model/dataset/space_station/train/images
-val: C:/Users/72910/Object Detection Model/dataset/space_station/val/images
-
-nc: 3
-names: ['Toolbox', 'Oxygen Tank', 'Fire Extinguisher']
