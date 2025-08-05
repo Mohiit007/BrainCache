@@ -6,5 +6,6 @@ torch
 numpy
 fpdf
 streamlit-lottie
+seaborn
 
 
